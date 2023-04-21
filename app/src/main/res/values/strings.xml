@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Tienda</string>
+    <string name="name">Nombre</string>
+    <string name="pass">Precio</string>
+    <string name="per">Codigo</string>
+    <string name="save">Guardar</string>
+    <string name="list">Listar</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Actualizar</string>
+    <string name="nom">Ingrese un nombre corto</string>
+    <string name="pass1">Ingrese el precio</string>
+    <string name="perm1">Ingrese el codigo</string>
+</resources>

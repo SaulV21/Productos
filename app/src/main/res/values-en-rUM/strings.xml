@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="per">Permission</string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="nom">Enter a short name</string>
+    <string name="pass1">Enter your password</string>
+    <string name="perm1">Enter the permission</string>
+</resources>
